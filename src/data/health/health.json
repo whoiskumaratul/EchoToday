@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "publisher": "The Takeout",
+    "section": "Cooking",
+    "image": "image1" ,
+    "time": "1 day ago",
+    "title": "The Creamiest Oatmeal Is Made In A Skillet, Not A Pot",
+    "source": "thetakeout.com",
+    "author": "Dylan Murray",
+    "description": "When cooking oatmeal, you might think the only choice you have is between putting a bowl in the microwave or heating a pot on the stove.",
+    "likes": 11,
+    "comments": 4,
+    "path": "/creamiest" 
+  },
+  {
+    "id": 2,
+    "publisher": "The Takeout",
+    "section": "Cooking",
+    "image": "image1" ,
+    "time": "1 day ago",
+    "title": "The Creamiest Oatmeal Is Made In A Skillet, Not A Pot",
+    "source": "thetakeout.com",
+    "author": "Dylan Murray",
+    "description": "When cooking oatmeal, you might think the only choice you have is between putting a bowl in the microwave or heating a pot on the stove.",
+    "likes": 11,
+    "comments": 4,
+    "path": "/creamiest" 
+  },
+   {
+    "id": 3,
+    "publisher": "The Takeout",
+    "section": "Cooking",
+    "image": "image1" ,
+    "time": "1 day ago",
+    "title": "The Creamiest Oatmeal Is Made In A Skillet, Not A Pot",
+    "source": "thetakeout.com",
+    "author": "Dylan Murray",
+    "description": "When cooking oatmeal, you might think the only choice you have is between putting a bowl in the microwave or heating a pot on the stove.",
+    "likes": 11,
+    "comments": 4,
+    "path": "/creamiest" 
+  },
+   {
+    "id": 4,
+    "publisher": "The Takeout",
+    "section": "Cooking",
+    "image": "image1" ,
+    "time": "1 day ago",
+    "title": "The Creamiest Oatmeal Is Made In A Skillet, Not A Pot",
+    "source": "thetakeout.com",
+    "author": "Dylan Murray",
+    "description": "When cooking oatmeal, you might think the only choice you have is between putting a bowl in the microwave or heating a pot on the stove.",
+    "likes": 11,
+    "comments": 4,
+    "path": "/creamiest" 
+  }
+]

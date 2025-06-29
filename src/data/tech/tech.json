@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "publisher": "The Verge",
+        "section": "Tech",
+        "image": "image3",
+        "time": "2 days ago",
+        "title": "Google’s AI chatbot Bard is now available in 40 languages",
+        "source": "theverge.com",
+        "author": "Emma Roth",
+        "description": "Google’s AI chatbot Bard is now available in 40 languages, including Spanish, French, and German.",
+        "likes": 25,
+        "comments": 10 ,
+        "path" : "/sarah"
+    },
+    {
+        "id": 2,
+        "publisher": "The Verge",
+        "section": "Tech",
+        "image": "image3",
+        "time": "2 days ago",
+        "title": "Google’s AI chatbot Bard is now available in 40 languages",
+        "source": "theverge.com",
+        "author": "Emma Roth",
+        "description": "Google’s AI chatbot Bard is now available in 40 languages, including Spanish, French, and German.",
+        "likes": 25,
+        "comments": 10 ,
+        "path" : "/sarah"
+    },
+    {
+        "id": 3,
+        "publisher": "The Verge",
+        "section": "Tech",
+        "image": "image3",
+        "time": "2 days ago",
+        "title": "Google’s AI chatbot Bard is now available in 40 languages",
+        "source": "theverge.com",
+        "author": "Emma Roth",
+        "description": "Google’s AI chatbot Bard is now available in 40 languages, including Spanish, French, and German.",
+        "likes": 25,
+        "comments": 10 ,
+        "path" : "/sarah"
+    },
+    {
+        "id": 4,
+        "publisher": "The Verge",
+        "section": "Tech",
+        "image": "image3",
+        "time": "2 days ago",
+        "title": "Google’s AI chatbot Bard is now available in 40 languages",
+        "source": "theverge.com",
+        "author": "Emma Roth",
+        "description": "Google’s AI chatbot Bard is now available in 40 languages, including Spanish, French, and German.",
+        "likes": 25,
+        "comments": 10 ,
+        "path" : "/sarah"
+    }
+
+]

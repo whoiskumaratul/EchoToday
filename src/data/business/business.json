@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "publisher": "TechCrunch",
+        "section": "Startups",
+        "image": "image5",
+        "time": "1 week ago",
+        "title": "Innovative Startups to Watch in 2023",
+        "source": "techcrunch.com",
+        "author": "Jane Doe",
+        "description": "A look at some of the most innovative startups that are making waves in the tech industry this year.",
+        "likes": 40,
+        "comments": 20 ,
+        "path": "/startups2023"
+    },
+    {
+        "id": 2,
+        "publisher": "TechCrunch",
+        "section": "Startups",
+        "image": "image5",
+        "time": "1 week ago",
+        "title": "Innovative Startups to Watch in 2023",
+        "source": "techcrunch.com",
+        "author": "Jane Doe",
+        "description": "A look at some of the most innovative startups that are making waves in the tech industry this year.",
+        "likes": 40,
+        "comments": 20 ,
+        "path": "/startups2023"
+    },
+    {
+        "id": 3,
+        "publisher": "TechCrunch",
+        "section": "Startups",
+        "image": "image5",
+        "time": "1 week ago",
+        "title": "Innovative Startups to Watch in 2023",
+        "source": "techcrunch.com",
+        "author": "Jane Doe",
+        "description": "A look at some of the most innovative startups that are making waves in the tech industry this year.",
+        "likes": 40,
+        "comments": 20 ,
+        "path": "/startups2023"
+    },
+    {
+        "id": 4,
+        "publisher": "TechCrunch",
+        "section": "Startups",
+        "image": "image5",
+        "time": "1 week ago",
+        "title": "Innovative Startups to Watch in 2023",
+        "source": "techcrunch.com",
+        "author": "Jane Doe",
+        "description": "A look at some of the most innovative startups that are making waves in the tech industry this year.",
+        "likes": 40,
+        "comments": 20 ,
+        "path": "/startups2023"
+    },
+    {
+        "id": 5,
+        "publisher": "TechCrunch",
+        "section": "Startups",
+        "image": "image5",
+        "time": "1 week ago",
+        "title": "Innovative Startups to Watch in 2023",
+        "source": "techcrunch.com",
+        "author": "Jane Doe",
+        "description": "A look at some of the most innovative startups that are making waves in the tech industry this year.",
+        "likes": 40,
+        "comments": 20 ,
+        "path": "/startups2023"
+    }
+]

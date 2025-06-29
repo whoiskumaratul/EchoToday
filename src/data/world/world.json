@@ -1,0 +1,62 @@
+[
+  {
+        "id": 1,
+        "publisher": "BBC News",
+        "section": "World",
+        "image": "image4",
+        "time": "3 days ago",
+        "title": "Global Climate Summit: Leaders Gather to Discuss Urgent Action",
+        "source": "bbc.com",
+        "author": "John Smith",
+        "description": "World leaders are gathering for a global climate summit to discuss urgent actions needed to combat climate change.",
+        "likes": 30,
+        "comments": 15,
+        "path": "/climatesummit"
+        
+    },
+  {
+        "id": 2,
+        "publisher": "BBC News",
+        "section": "World",
+        "image": "image4",
+        "time": "3 days ago",
+        "title": "Global Climate Summit: Leaders Gather to Discuss Urgent Action",
+        "source": "bbc.com",
+        "author": "John Smith",
+        "description": "World leaders are gathering for a global climate summit to discuss urgent actions needed to combat climate change.",
+        "likes": 30,
+        "comments": 15,
+        "path": "/climatesummit"
+        
+    },
+    {
+        "id": 3,
+        "publisher": "BBC News",
+        "section": "World",
+        "image": "image4",
+        "time": "3 days ago",
+        "title": "Global Climate Summit: Leaders Gather to Discuss Urgent Action",
+        "source": "bbc.com",
+        "author": "John Smith",
+        "description": "World leaders are gathering for a global climate summit to discuss urgent actions needed to combat climate change.",
+        "likes": 30,
+        "comments": 15,
+        "path": "/climatesummit"
+        
+    },
+    {
+        "id": 4,
+        "publisher": "BBC News",
+        "section": "World",
+        "image": "image4",
+        "time": "3 days ago",
+        "title": "Global Climate Summit: Leaders Gather to Discuss Urgent Action",
+        "source": "bbc.com",
+        "author": "John Smith",
+        "description": "World leaders are gathering for a global climate summit to discuss urgent actions needed to combat climate change.",
+        "likes": 30,
+        "comments": 15,
+        "path": "/climatesummit"
+        
+    }
+ ]
